@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Luisa Valentina Gutierrez Tovar, your role, your links |
 | About |My name is Luisa Tovar; I am a systems engineering student passionate about modern software solutions. For my project, I am creating an interactive web platform aimed at solving key workflow inefficiencies|
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
