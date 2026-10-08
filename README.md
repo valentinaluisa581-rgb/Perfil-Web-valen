@@ -13,12 +13,13 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Luisa Valentina Gutierrez Tovar,Web Programmer Student|
+| Home |Luisa Valentina Gutierrez Tovar,Web Programmer Student|
 | About |My name is Luisa Tovar; I am a systems engineering student passionate about modern software solutions. For my project, I am creating an interactive web platform aimed at solving key workflow inefficiencies|
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| Skills |Technical: HTML, CSS, JavaScript, PHP, MySQL, Git, and GitHub. Professional: Problem-solving, teamwork, creativity, responsibility, organization, communication, and continuous learning.|
+| Resume |Education: Systems Engineering student at UNIESPINAL. Experience: Developing academic projects related to software, databases, web development, and information systems.|
+| Projects |Commercial Directory of El Espinal: A web-based project designed to organize and provide information about local businesses. The platform aims to make it easier for users to search for establishments and access their information.|
+| Interests |I am interested in software development, database management, web applications, system analysis, and learning new technologies that can contribute to my professional growth.|
+| Contact | valentinaluisa581@gmail.com |
 
 ---
 
